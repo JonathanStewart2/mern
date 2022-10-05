@@ -1,0 +1,13 @@
+NODE
+
+allows JS to run OUTSIDE of a browser - was called chrome V8 engine
+
+REPL - read eval print loop: reads your command, evaluates it, prints the result, repeats
+
+single-threaded -> can't multitask
+event driven -> code executes after an "event"
+non-blocking - asynchronus - code keeps executing while waiting for a response
+I/O - input/output - interacting with another program, http request
+
+NPM - Node Package Manager
+used to import external modules eg axios (dependencies)
