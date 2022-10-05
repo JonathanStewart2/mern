@@ -11,3 +11,5 @@ I/O - input/output - interacting with another program, http request
 
 NPM - Node Package Manager
 used to import external modules eg axios (dependencies)
+npm install <dep>
+eg npm install axios
