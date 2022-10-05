@@ -4,3 +4,8 @@
     "cowsay": "^1.5.0"
   }
 }
+{
+  "scripts": {
+    "start": "node ./module_practice/index.js"
+  }
+}
